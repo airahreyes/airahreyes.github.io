@@ -12,4 +12,4 @@ I was born and raised in Milan, so one of my goals is to visit places as far awa
 
 ## Campus
 
-![Via Conservatorio Campus](conservatorio.jpg)
+![Via Conservatorio Campus](conservatorio.jpeg)
